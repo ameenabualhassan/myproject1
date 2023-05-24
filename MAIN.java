@@ -5,7 +5,7 @@ public class MAIN {
     public static void main(String[] args){
 
         System.out.println("p2 started this class!");
-        System.out.println("Then p1 edited it.....");
+        System.out.println("Then p1 edited it");
     }
 
 
